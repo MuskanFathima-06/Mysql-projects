@@ -1,5 +1,3 @@
-# Mysql-projects
-This project focuses on cleaning, transforming, and preparing raw dataset using MySQL Workbench to ensure accuracy, consistency, and usability for analysis. The goal is to simulate real-world data challenges and demonstrate how SQL queries can be applied to resolve them. 
 # 🗄️ MySQL Data Cleaning & Exploration Project
 
 ## 📊 Overview
@@ -42,4 +40,4 @@ Through SQL queries, the dataset was transformed into a clean, reliable format r
 👩‍💻 **Muskan Fathima**  
 - [LinkedIn](https://www.linkedin.com/in/muskan-fathima-1497743a4/)  
 - [GitHub](https://github.com/MuskanFathima-06)  
-- [Resume]([https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima__Resume.pdf])
+- [Resume]([https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima/Resume.pdf])

@@ -40,4 +40,4 @@ Through SQL queries, the dataset was transformed into a clean, reliable format r
 👩‍💻 **Muskan Fathima**  
 - [LinkedIn](https://www.linkedin.com/in/muskan-fathima-1497743a4/)  
 - [GitHub](https://github.com/MuskanFathima-06)  
-- [Resume](https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima_Resume.pdf)
+- [Resume](https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima__Resume.pdf)

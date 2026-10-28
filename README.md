@@ -24,14 +24,7 @@ Through SQL queries, the dataset was transformed into a clean, reliable format r
 
 ---
 
-## 📂 Repository Contents
-- `DATA_CLEANING.sql` → SQL scripts for cleaning tasks.
-- `EDA.sql` → SQL scripts for exploratory analysis.
-- `README.md` → Project documentation (this file).
-
----
-
-## 🚀 Outcomes
+##  Outcomes
 - A **cleaned dataset** optimized for BI tools like Tableau or Power BI.
 - SQL scripts documenting each step for reproducibility.
 - Insights into global layoff trends through structured queries.
@@ -45,15 +38,8 @@ Through SQL queries, the dataset was transformed into a clean, reliable format r
 
 ---
 
-## 📈 Future Work
-- Build interactive dashboards in **Tableau** or **Power BI**.
-- Automate cleaning workflows with Python + SQL integration.
-- Expand analysis with additional datasets for comparison.
-
----
-
 ## 📬 Contact
 👩‍💻 **Muskan Fathima**  
 - [LinkedIn](https://www.linkedin.com/in/muskan-fathima-1497743a4/)  
 - [GitHub](https://github.com/MuskanFathima-06)  
-- 📄 [Resume](https://github.com/MuskanFathima-06/resume/blob/main/MuskanFathima_Resume.pdf)
+- [Resume]([https://github.com/MuskanFathima-06/Resume/blob/main/MuskanFathima__Resume.pdf])
